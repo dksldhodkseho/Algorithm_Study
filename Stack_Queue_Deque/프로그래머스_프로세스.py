@@ -21,5 +21,3 @@ def solution(priorities, location):
         answer += 1
     
     return answer
-profile
-G the 
