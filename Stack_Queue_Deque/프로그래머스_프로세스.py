@@ -19,5 +19,5 @@ def solution(priorities, location):
         if i[0] == location:
             break
         answer += 1
-    
+
     return answer
